@@ -20,6 +20,9 @@ _cgo_export.*
 
 _testmain.go
 
+EpiNoel
+log
+
 *.exe
 *.test
 *.prof
